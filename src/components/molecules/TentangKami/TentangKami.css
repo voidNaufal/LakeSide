@@ -1,0 +1,23 @@
+/* Customize Text */
+  .font-small {
+    font-size: small; /* Atur ukuran font sesuai kebutuhan */
+  }
+  .font-medium {
+    font-size: medium; /* Atur ukuran font sesuai kebutuhan */
+  }
+
+  .text-accent {
+    color: black; /* Ganti dengan warna aksen yang diinginkan */
+  }
+
+  .rata-kanan-kiri {
+    text-align: justify; /* Ratakan kiri dan kanan */
+  }
+
+  .rata-tengah {
+    text-align: a; /* Ratakan tengah */
+  }
+
+  .text-warna-khusus {
+    color: #B38867; /* Ganti dengan kode warna yang diinginkan */
+  }
